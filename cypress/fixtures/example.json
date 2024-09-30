@@ -1,0 +1,9 @@
+{
+  "userName": "testuser",
+  "password": "password123",
+  "email": "hello@cypress.io",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "App_URL": "http://172.22.144.1:8080/employees.html",
+  "employeeName": "Andrew",
+  "employeeCityOfOrigin": "Tacoma"
+}
